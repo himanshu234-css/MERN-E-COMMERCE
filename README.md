@@ -93,7 +93,7 @@ Screenshots of the application will be added here.
 
 Himanshu Shekhar Singh
 
-GitHub: https://github.com/himanshu234-ess
+GitHub: https://github.com/himanshu234-css
 
 📄 Credits
 
